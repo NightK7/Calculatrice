@@ -1,3 +1,0 @@
-# Calculatrice
-
-calculatrce en js
